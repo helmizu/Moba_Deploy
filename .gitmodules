@@ -2,8 +2,8 @@
 	path = moba
 	url = git@github.com:helmizu/moba.git
 [submodule "admin-moba"]
-	path = admin_moba
+	path = admin-moba
 	url = git@github.com:helmizu/admin_moba.git
 [submodule "API-Moba"]
-	path = API_Moba
+	path = API-Moba
 	url = git@github.com:helmizu/API_Moba.git
