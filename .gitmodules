@@ -1,9 +1,9 @@
 [submodule "moba"]
 	path = moba
-	url = git@git.arkademy.com:muhammad_fajar_25rpl/moba.git
+	url = git@github.com:helmizu/moba.git
 [submodule "admin-moba"]
-	path = admin-moba
-	url = git@git.arkademy.com:helmizu/admin-moba.git
+	path = admin_moba
+	url = git@github.com:helmizu/admin_moba.git
 [submodule "API-Moba"]
-	path = API-Moba
-	url = git@git.arkademy.com:helmizu/API-Moba.git
+	path = API_Moba
+	url = git@github.com:helmizu/API_Moba.git
